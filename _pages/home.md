@@ -8,7 +8,7 @@ nav_order: 1
 <!-- Logo & Title side by side -->
 <div style="display:flex; align-items:center; justify-content:center; gap:1.5rem; margin:2rem 0;">
   <img
-    src="{{ '/assets/img/llmtrust-logo.png' | relative_url }}"
+    src="{{ '/assets/img/trustllm-logo.png' | relative_url }}"
     alt="LLMTrust 2026 Logo"
     style="width:120px; height:auto;"
   />
@@ -61,7 +61,7 @@ Grounded in trustworthiness goals (fairness, accountability, transparency, safet
 
   <div style="text-align:center;">
     <img
-      src="{{ '/assets/img/sahmed.png' | relative_url }}"
+      src="{{ '/assets/img/sahmed.jpg' | relative_url }}"
       alt="Dr. Shibbir Ahmed"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     /><br>
