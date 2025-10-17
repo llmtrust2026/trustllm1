@@ -7,13 +7,14 @@ nav_order: 4
 nav_title: "Papers"
 ---
 
-<!-- Workshop logo (put your logo at assets/img/distill-logo.png) -->
 <p align="center">
-  <img src="{{ '/assets/img/distill-logo.png' | relative_url }}" alt="IEEE DISTILL 2025 Logo" style="max-width:200px;" />
+  <img src="{{ '/assets/img/trustllm-logo.png' | relative_url }}" alt="LLMTrust 2026 Logo" style="max-width:200px;" />
 </p>
 
-# Accepted Papers: TBD
+# Accepted Papers
 
-We’ll review the submissions and will announce the accepted papers here.
+Accepted papers will be published in the **ACM Digital Library** as part of the **FSE 2026 Companion Proceedings**.
 
-<small>Stay tuned for updates after **September 30, 2025**.</small>
+The list of accepted papers will appear here after notification of acceptance.
+
+<small>Stay tuned for updates after **March 19, 2026**.</small>
