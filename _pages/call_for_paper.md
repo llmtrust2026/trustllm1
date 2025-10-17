@@ -54,7 +54,6 @@ We welcome submissions addressing either or both complementary scopes, plus cros
 - **Registration.** At least one author of each accepted paper must register for the workshop. Organizers will not submit to their own workshop (FSE policy). 
 - **Submission Site.** Please submit via **HotCRP**: https://fse26workshops.hotcrp.com/ 
 
-> Note: This page replaces the prior IEEE TPS 2025 text and dates from the older template. 
 
 ---
 
