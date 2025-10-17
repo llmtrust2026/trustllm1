@@ -8,49 +8,74 @@ nav_title: "CFP"
 ---
 
 # Call for Papers
-This workshop focuses on advancing secure, private, and trustworthy large language models (LLMs) for real-world applications. As LLMs become embedded in everyday tools and decision-making pipelines across domains such as healthcare, education, and autonomous systems, it is critical to ensure they operate with high reliability, transparency, and respect for user privacy. The increasing scale and scope of LLM usage raises urgent questions about model robustness, safety under adversarial conditions, and the integrity of generated outputs in dynamic environments.
 
-We aim to bring together researchers and practitioners working on the foundations and applications of trustworthy LLMs. Topics of interest include privacy-preserving techniques, watermarking and integrity verification, explainability in model decision-making, robustness under distribution shift, and evaluation frameworks for safety and trust. We also encourage submissions that explore scalable inference on edge and IoT devices, secure aggregation and compression, and real-world case studies of LLM deployment. This workshop will serve as a platform to share new insights, tools, and best practices for building LLMs that are not only powerful, but also safe, transparent, and accountable. 
+**LLMTrust 2026: The 1st International Workshop on Software Engineering for and with Trustworthy LLMs** invites original contributions on engineering trustworthy LLM-based systems and the rigorous, auditable use of LLMs across the software lifecycle. The workshop emphasizes actionable techniques, evidence (tests, metrics, logs), open artifacts, and alignment with standards (e.g., NIST AI RMF, ISO/IEC, EU AI Act). 
 
+---
 
-## Topics
+## Topics of Interest
 
-Topics of interest include, but are not limited to:
+We welcome submissions addressing either or both complementary scopes, plus cross-cutting themes: 
 
-- Privacy-preserving techniques for LLMs in distributed environments  
-- Federated learning with LLMs: challenges and solutions  
-- Differential privacy in decentralized LLM applications
-- Trustworthy and explainable LLM-based decision-making 
-- Adversarial attacks and defenses in distributed LLM systems
-- Watermarking and integrity verification for robust LLMs
-- Robustness evaluation of LLMs under distribution shift
-- Cross-domain and cross-institutional data governance for LLMs
-- Scalable LLM inference in edge and IoT-based systems
-- Secure aggregation and compression of LLM outputs
-- Benchmarking privacy, security, and trust in LLM-powered applications
-- Case studies and real-world implementations of secure distributed LLMs
+**SE for Trustworthy LLM-Based Systems** (engineering applications that embed/deploy LLMs)
+- Architecture & design patterns for RAG, agentic, and multi-modal systems  
+- Testing, debugging, and validation of LLM applications  
+- Robustness & adversarial evaluation: jailbreaks, prompt injection, red-teaming  
+- Grounding, hallucination mitigation, and provenance guarantees  
+- Runtime monitoring, observability, and incident response  
+- Safety guardrails, tool-use controls, and constraints for agentic AI  
+- Benchmarking & reliability metrics (SLAs/SLOs, evaluation suites)  
+- Data governance, lineage tracking, and reproducibility in training/fine-tuning  
+- Privacy-preserving design, secure model serving, and regulatory compliance  
 
+**SE with Trustworthy LLM Integration** (responsible use of LLMs across the lifecycle)
+- Provenance tracking for LLM-generated code, design decisions, and requirements  
+- Human-over-the-loop oversight in coding, testing, and review  
+- Safety & quality assurance for LLM-generated artifacts  
+- Developer agency and skill preservation in LLM-augmented workflows  
+- Empirical studies on adoption: productivity, quality, security  
+- Bias, fairness, transparency in LLM-assisted decisions  
+- LLMOps integration: policy gates, compliance, and risk management in CI/CD  
+- Education, training, and best practices for responsible LLM use  
 
-## Submission
-Workshop papers should follow the same submission guidelines and instructions for the main conference: [IEEE TPS 2025](https://www.sis.pitt.edu/lersais/conference/tps/2025/). We invite original research works that are neither previously published nor under review elsewhere. Accepted papers will be published in IEEE Xplore as part of the TPS conference proceedings. Submissions are limited to 10 pages for long papers and 5 pages for short papers, including references and appendices. Standard IEEE conference paper format should be used. The IEEE two-column conference template can be downloaded from [here](https://www.ieee.org/conferences/publishing/templates).
+**Cross-Cutting**
+- Governance frameworks & standards alignment (NIST AI RMF, ISO/IEC, EU AI Act)  
+- Tool demos, datasets, benchmarks, reusable artifacts; case studies and industry experience; interdisciplinary perspectives across AI ethics, SE, HCI, and policy.  
 
-Submit your paper through [EasyChair](https://easychair.org/account2/signin?l=7661155834746278132) and select the "IEEE DISTILL 2025" Track.
+---
 
-## Proceedings & Paper Types
+## Submission & Proceedings
 
-All accepted papers will be submitted for inclusion in the **IEEE Xplore conference proceedings**.  
-Authors may choose to submit either **full-length (up to 10 pages)** or **short papers (up to 5 pages)**.
+- **Venue & Proceedings.** Proceedings will appear in the **ACM Digital Library** as part of the **FSE 2026 Companion Proceedings**. All submissions must use the **ACM format** and follow ACM policies.  
+- **Submission Types.**  
+  - **Full papers:** **8 pages** + up to **2 pages** references  
+  - **Short papers:** **5 pages** + up to **1 page** references  
+  - **Extended abstracts:** **5 pages** + up to **1 page** references (**APC-free**) 
+- **Registration.** At least one author of each accepted paper must register for the workshop. Organizers will not submit to their own workshop (FSE policy). 
+- **Submission Site.** Please submit via **HotCRP**: https://fse26workshops.hotcrp.com/ 
 
-For questions, please contact the workshop organizers.
+> Note: This page replaces the prior IEEE TPS 2025 text and dates from the older template. 
 
-## Paper Presentation
+---
 
-This workshop is primarily an in-person event. We can accommodate remote presentation through pre-recorded video only for special circumstances (visa, health etc.), and in that case, live zoom participation of the presenter for Q&A is required. If a paper is presented, then it will be included in the final proceedings. Please note that each paper must be covered by a full author registration, whether the presentation is in-person or online.
+## Important Dates (AoE)
 
+- **Paper submission:** **February 12, 2026**  
+- **Notification:** **March 19, 2026**  
+- **Camera-ready:** **April 2, 2026**  
+- **Workshop:** **July 5 or 6, 2026** 
 
-## Important Dates
- 
-- **Submission Deadline:** August 31, 2025  
-- **Notification of Acceptance:** September 15, 2025  
-- **Camera-Ready Due:** September 30, 2025  
-- **Workshop Date:** November 11, 2025
+---
+
+## Paper Presentation & Policies
+
+- Accepted papers will be presented in the workshop’s **full-day program** with keynotes, paper sessions, tool demos, and a panel with breakouts. 
+- **Policy on Human Participants.** “As a published ACM author, you and your co-authors are subject to all ACM Publications Policies, including ACM’s Publications Policy on Research Involving Human Participants and Subjects.” 
+- **ACM Open & APCs.** FSE 2026 uses ACM Open. Authors at participating institutions are covered; others may incur APCs with temporary subsidies; **extended abstracts remain APC-free**. Please consult ACM Open participation and waiver policies. 
+
+---
+
+### Contact
+
+**Sumon Biswas** (Case Western Reserve University) — sumon@case.edu  
+**Shibbir Ahmed** (Texas State University) — shibbir@txstate.edu :contentReference[oaicite:11]{index=11}
