@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "IEEE DISTILL 2025"
+title: "LLMTrust 2026"
 permalink: /
 nav_order: 1
 ---
@@ -13,8 +13,8 @@ nav_order: 1
     style="width:120px; height:auto;"
   />
   <h1 style="margin:0; font-size:2.5rem; line-height:1.2;">
-    IEEE DISTILL 2025: Workshop on Distributed, Secure,
-    and Trustworthy Intelligence with LLMs
+    The 1st International Workshop on Software Engineering for and with Trustworthy LLMs (LLMTrust 2026)
+  </h1>
   </h1>
 </div>
 
@@ -28,57 +28,54 @@ nav_order: 1
 </div>
 ## Welcome
 
-Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelligence with LLMs (**IEEE DISTILL 2025**). This event brings together researchers on secure, privacy-preserving, and robust LLM systems.
+Welcome to **The 1st International Workshop on Software Engineering for and with Trustworthy LLMs (LLMTrust 2026)**, co-located with **FSE 2026**.  
+This workshop addresses two complementary dimensions of trustworthy LLM engineering:
+
+1. **Software Engineering for Trustworthy LLM-Based Systems** — principled architecture, testing, verification, monitoring, and governance for applications embedding LLMs (e.g., RAG pipelines, tool-using agents, multi-modal services).  
+2. **Software Engineering with Trustworthy LLM Integration** — rigorous, auditable use of LLM assistance throughout the development lifecycle, with safeguards for reliability, provenance, privacy, and safety.
+
+Grounded in trustworthiness goals (fairness, accountability, transparency, safety, contestability, harm mitigation), **LLMTrust** emphasizes actionable evidence — tests, metrics, logs, and proofs — to guide engineering decisions. The workshop promotes open artifacts (datasets, benchmarks, tools) to foster community adoption and reproducible trustworthy AI engineering practices.
+
 
 <p align="center">
-  <a href="https://ieeedistill.github.io/">IEEE DISTILL 2025</a> • Co-located with 
-  <a href="https://www.sis.pitt.edu/lersais/conference/tps/2025/">IEEE TPS 2025</a> (7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications, Nov. 11–14, 2025, Pittsburgh, PA, USA) • Co-located with 
-  <a href="https://www.sis.pitt.edu/lersais/conference/cic/2025/">IEEE CIC 2025</a> and 
-  <a href="https://www.sis.pitt.edu/lersais/conference/cogmi/2025/">IEEE CogMI 2025</a>
+  <a href="https://llmtrust2026.github.io/">LLMTrust 2026</a> • Co-located with 
+  <a href="https://conf.researchr.org/home/fse-2026">The ACM International Conference on the Foundations of Software Engineering (FSE 2026)</a> 
 </p>
 
 
-**Date:** November 11, 2025  
-**Location:** TBD  
+**Date:** July 5 or 6, 2026
+**Location:** Montreal, Canada
+**Contacts:** sumon@case.edu, shibbir@txstate.edu
 
 ---
-
-### Organization Preview
-
-<p align="center">
-  <img
-    src="{{ '/assets/img/brinton.jpg' | relative_url }}"
-    alt="Dr. Christopher G. Brinton"
-    style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
-  /><br>
-  <strong>Dr. Christopher G. Brinton</strong><br><em>General Chair</em>
-</p>
-
+### Organizing Committee
 
 <div style="display:flex; justify-content:center; align-items:center; gap:2rem; flex-wrap:wrap; margin-bottom:4rem;">
   <div style="text-align:center;">
     <img
-      src="{{ '/assets/img/shahnewaz.jpg' | relative_url }}"
-      alt="Dr. Shahnewaz Karim Sakib"
+      src="{{ '/assets/img/sumon.jpg' | relative_url }}"
+      alt="Dr. Sumon Biswas"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     /><br>
-    <strong>Dr. Shahnewaz Karim Sakib</strong><br><em>TPC Co-Chair</em>
+    <strong>Dr. Sumon Biswas</strong><br><em>Case Western Reserve University, USA</em>
   </div>
-  <div style="text-align:center;">
-    <img
-      src="{{ '/assets/img/anindya3.png' | relative_url }}"
-      alt="Dr. Anindya Bijoy Das"
-      style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
-    /><br>
-    <strong>Dr. Anindya Bijoy Das</strong><br><em>TPC Co-Chair</em>
-  </div>
+
   <div style="text-align:center;">
     <img
       src="{{ '/assets/img/shibbirahmed.jpg' | relative_url }}"
       alt="Dr. Shibbir Ahmed"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     /><br>
-    <strong>Dr. Shibbir Ahmed</strong><br><em>TPC Co-Chair</em>
+    <strong>Dr. Shibbir Ahmed</strong><br><em>Texas State University, USA</em>
+  </div>
+
+  <div style="text-align:center;">
+    <img
+      src="{{ '/assets/img/hridesh.jpg' | relative_url }}"
+      alt="Dr. Hridesh Rajan"
+      style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
+    /><br>
+    <strong>Dr. Hridesh Rajan</strong><br><em>Tulane University, USA</em>
   </div>
 </div>
 
@@ -86,13 +83,17 @@ Welcome to the 1st IEEE Workshop on Distributed, Secure, and Trustworthy Intelli
 
 ### Call for Papers
 
-Submission deadline **August 31, 2025** (AoE). <br>
-Notification of acceptance **September 15, 2025**.<br>
-Camera-ready paper due **September 30, 2025**.<br>
-Learn more on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }}).
+**Submission deadline:** February 12, 2026 (AoE)  
+**Notification of acceptance:** March 19, 2026  
+**Camera-ready paper due:** April 2, 2026  
+**Workshop date:** July 5 or 6, 2026 (AoE)  
+
+Full details are available on the [Call for Papers page]({{ '/call-for-papers/' | relative_url }}).
 
 ---
 
 ### Tentative Workshop Schedule
 
-Full schedule on the [Tentative Workshop Schedule page]({{ '/schedule/' | relative_url }}).
+The workshop will feature keynote presentations, paper sessions, tool demonstrations, and an interactive panel on trustworthy LLM engineering practices.
+
+See the full schedule on the [Tentative Workshop Schedule page]({{ '/schedule/' | relative_url }}).
