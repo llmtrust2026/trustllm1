@@ -9,18 +9,21 @@ nav_title: "Schedule"
 
 # Tentative Workshop Schedule
 
-**Date:** November 11, 2025
+**Date:** July 5 or 6, 2026 (AoE)  
+**Venue:** Co-located with ACM FSE 2026, Porto de Galinha, Brazil
 
-| Time                | Session                                                                 |
-|---------------------|--------------------------------------------------------------------------|
-| 07:00 AM – 08:30 AM | Breakfast                                                                |
-| 08:30 AM – 08:45 AM | Opening                                                                  |
-| 08:45 AM – 09:45 AM | Keynote                                 |
-| 09:45 AM – 10:00 AM | Break                                                                    |
-| 10:00 AM – 11:00 AM | Paper Session 1                                            |
-| 11:00 AM – 12:15/12:30 PM | Invited Talk / Panel                                              |
-| 12:00 PM – 01:30 PM | Lunch Break                                                              |
-| 01:30 PM – 02:30 PM | Keynote                                 |
-| 02:30 PM – 03:30 PM | Keynote                                   |
-| 03:30 PM – 03:45 PM | Break                                                                    |
-| 03:45 PM – 05:30 PM | Paper Session 2 + adjournment                                            |
+| Time           | Session                     |
+|----------------|-----------------------------|
+| 09:00–09:30    | Opening & Lightning Talks   |
+| 09:30–10:30    | Paper Session I             |
+| 10:30–11:00    | Break                       |
+| 11:00–11:45    | Keynote I                   |
+| 11:45–12:30    | Paper Session II            |
+| 12:30–13:30    | Lunch                       |
+| 13:30–14:15    | Keynote II                  |
+| 14:15–15:00    | Tool Demonstrations         |
+| 15:00–15:30    | Break                       |
+| 15:30–16:45    | Panel & Breakout Sessions   |
+| 16:45–17:00    | Closing Remarks             |
+
+<small>This schedule is preliminary and subject to change.</small>
