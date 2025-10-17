@@ -15,7 +15,6 @@ nav_order: 1
   <h1 style="margin:0; font-size:2.5rem; line-height:1.2;">
     The 1st International Workshop on Software Engineering for and with Trustworthy LLMs (LLMTrust 2026)
   </h1>
-  </h1>
 </div>
 
 <!-- Hero banner -->
@@ -31,10 +30,10 @@ nav_order: 1
 Welcome to **The 1st International Workshop on Software Engineering for and with Trustworthy LLMs (LLMTrust 2026)**, co-located with **FSE 2026**.  
 This workshop addresses two complementary dimensions of trustworthy LLM engineering:
 
-1. **Software Engineering for Trustworthy LLM-Based Systems** — principled architecture, testing, verification, monitoring, and governance for applications embedding LLMs (e.g., RAG pipelines, tool-using agents, multi-modal services).  
-2. **Software Engineering with Trustworthy LLM Integration** — rigorous, auditable use of LLM assistance throughout the development lifecycle, with safeguards for reliability, provenance, privacy, and safety.
+1. **Software Engineering for Trustworthy LLM-Based Systems** : principled architecture, testing, verification, monitoring, and governance for applications embedding LLMs (e.g., RAG pipelines, tool-using agents, multi-modal services).  
+2. **Software Engineering with Trustworthy LLM Integration** : rigorous, auditable use of LLM assistance throughout the development lifecycle, with safeguards for reliability, provenance, privacy, and safety.
 
-Grounded in trustworthiness goals (fairness, accountability, transparency, safety, contestability, harm mitigation), **LLMTrust** emphasizes actionable evidence — tests, metrics, logs, and proofs — to guide engineering decisions. The workshop promotes open artifacts (datasets, benchmarks, tools) to foster community adoption and reproducible trustworthy AI engineering practices.
+Grounded in trustworthiness goals (fairness, accountability, transparency, safety, contestability, harm mitigation), **LLMTrust** emphasizes actionable evidence, tests, metrics, logs, and proofs, to guide engineering decisions. The workshop promotes open artifacts (datasets, benchmarks, tools) to encourage community adoption and reproducible trustworthy AI engineering practices.
 
 
 <p align="center">
