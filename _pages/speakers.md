@@ -16,7 +16,7 @@ nav_order: 2
   <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
     <img
       src="{{ '/assets/img/speakers/speaker.png' | relative_url }}"
-      alt="Dr. Sayem Mohammad Imtiaz"
+      alt="TBD"
       style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
     />
     <div class="speaker-info" style="text-align: left;">
@@ -32,7 +32,7 @@ nav_order: 2
   <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
     <img
       src="{{ '/assets/img/speakers/speaker.png' | relative_url }}"
-      alt="Dr. Sayem Mohammad Imtiaz"
+      alt="tbd"
       style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
     />
     <div class="speaker-info" style="text-align: left;">
@@ -48,7 +48,7 @@ nav_order: 2
   <div class="team-member" style="display: flex; align-items: flex-start; gap: 1rem;">
     <img
       src="{{ '/assets/img/speakers/speaker.png' | relative_url }}"
-      alt="Dr. Sayem Mohammad Imtiaz"
+      alt="tbd"
       style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%; flex-shrink: 0;"
     />
     <div class="speaker-info" style="text-align: left;">
