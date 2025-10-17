@@ -8,70 +8,50 @@ nav_order: 5
 
 # Organization
 
-## General Chair
-
-<div class="team-container">
-  <div class="team-member">
-    <img
-      src="{{ '/assets/img/brinton.jpg' | relative_url }}"
-      alt="Dr. Christopher G. Brinton"
-      style="width:200px; height:200px; object-fit:cover; border-radius:50%;"
-    />
-    <h3>Dr. Christopher G. Brinton</h3>
-    <p>
-      Elmore Associate Professor of Electrical and Computer Engineering<br>
-      Purdue University, West Lafayette, IN, USA<br>
-      <a href="mailto:cgb@purdue.edu">cgb@purdue.edu</a>
-    </p>
-  </div>
-</div>
-
----
-
-## Technical Program Committee Chairs
+## Organizing Committee
 
 <div class="team-container"
      style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap;">
 
   <div class="team-member">
     <img
-      src="{{ '/assets/img/shahnewaz.jpg' | relative_url }}"
-      alt="Dr. Shahnewaz Karim Sakib"
+      src="{{ '/assets/img/sumon.jpg' | relative_url }}"
+      alt="Dr. Sumon Biswas"
       style="width:200px; height:200px; object-fit:cover; border-radius:50%;"
     />
-    <h3>Dr. Shahnewaz Karim Sakib</h3>
+    <h3>Dr. Sumon Biswas</h3>
     <p>
-      Assistant Professor, Computer Science and Engineering<br>
-      University of Tennessee at Chattanooga, Chattanooga, TN, USA<br>
-      <a href="mailto:shahnewazkarim-sakib@utc.edu">shahnewazkarim-sakib@utc.edu</a>
+      Assistant Professor, Department of Computer and Data Sciences<br>
+      Case Western Reserve University, USA<br>
+      <a href="mailto:sumon@case.edu">sumon@case.edu</a>
     </p>
   </div>
 
   <div class="team-member">
     <img
-      src="{{ '/assets/img/anindya2.png' | relative_url }}"
-      alt="Dr. Anindya Bijoy Das"
-      style="width:200px; height:200px; object-fit:cover; border-radius:50%;"
-    />
-    <h3>Dr. Anindya Bijoy Das</h3>
-    <p>
-      Assistant Professor, Electrical and Computer Engineering<br>
-      The University of Akron, Akron, OH, USA<br>
-      <a href="mailto:adas@uakron.edu">adas@uakron.edu</a>
-    </p>
-  </div>
-
-  <div class="team-member">
-    <img
-      src="{{ '/assets/img/shibbirahmed.jpg' | relative_url }}"
+      src="{{ '/assets/img/sahmed.jpg' | relative_url }}"
       alt="Dr. Shibbir Ahmed"
       style="width:200px; height:200px; object-fit:cover; border-radius:50%;"
     />
     <h3>Dr. Shibbir Ahmed</h3>
     <p>
-      Assistant Professor, Computer Science<br>
-      Texas State University, San Marcos, TX, USA<br>
+      Assistant Professor, Department of Computer Science<br>
+      Texas State University, USA<br>
       <a href="mailto:shibbir@txstate.edu">shibbir@txstate.edu</a>
+    </p>
+  </div>
+
+  <div class="team-member">
+    <img
+      src="{{ '/assets/img/hrajan.jpg' | relative_url }}"
+      alt="Dr. Hridesh Rajan"
+      style="width:200px; height:200px; object-fit:cover; border-radius:50%;"
+    />
+    <h3>Dr. Hridesh Rajan</h3>
+    <p>
+      Professor, Department of Computer Science<br>
+      Tulane University, USA<br>
+      <a href="mailto:hrajan@tulane.edu">hrajan@tulane.edu</a>
     </p>
   </div>
 
@@ -82,12 +62,15 @@ nav_order: 5
 ## Technical Program Committee Members
 
 <ul>
-  <li>Dr. Sumon Biswas, Assistant Professor, Case Western Reserve University, USA</li>
-  <li>Dr. Zhonghao Liao, Assistant Professor, Milwaukee School of Engineering, USA</li>
-  <li>Dr. Dewan Fahim Noor, Assistant Professor, Tuskegee University, USA</li>
-  <li>Dr. Md Abul Hasnat, Assistant Professor, University of Wyoming, USA</li>
-  <li>Dr. Abdullah Al Maruf, Assistant Professor, California State University, USA</li>
-  <li>Dr. Mahmoud Nazzal, Assistant Professor, Old Dominion University, USA</li>
-  <li>Dr. Shiplu Sarker, Postdoctoral Research Associate, Iowa State University, USA</li>
-  <li>Dr. Khandaker Mamun Ahmed, Assistant Professor, Dakota State University, USA</li>
+  <li>Dr. Iftekhar Ahmed, Associate Professor, University of California, Irvine, USA</li>
+  <li>Dr. Sayem Mohammad Imtiaz, Research Scientist, Meta</li>
+  <li>Dr. Jaydeb Sarkar, Assistant Professor, University of Nebraska at Omaha, USA</li>
+  <li>Dr. Giang Nguyen, Research Scientist, Meta</li>
+  <li>Dr. Samantha Syeda Khairunnesa, Assistant Professor, Bradley University, USA</li>
+  <li>Dr. Hong Jin Kang, Lecturer, University of Sydney, Australia</li>
+  <li>Dr. Saikat Dutta, Assistant Professor, Cornell University, USA</li>
+  <li>Dr. Gias Uddin, Associate Professor, York University, Canada</li>
+  <li>Dr. Masud Rahman, Associate Professor, Dalhousie University, Canada</li>
+  <li>Yining She, PhD Student, Carnegie Mellon University, USA</li>
+  <li>Dr. Akond Rahman, Assistant Professor, Auburn University, USA</li>
 </ul>
