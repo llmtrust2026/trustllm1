@@ -8,8 +8,8 @@ nav_order: 1
 <!-- Logo & Title side by side -->
 <div style="display:flex; align-items:center; justify-content:center; gap:1.5rem; margin:2rem 0;">
   <img
-    src="{{ '/assets/img/distill-logo.png' | relative_url }}"
-    alt="IEEE DISTILL 2025 Logo"
+    src="{{ '/assets/img/llmtrust-logo.png' | relative_url }}"
+    alt="LLMTrust 2026 Logo"
     style="width:120px; height:auto;"
   />
   <h1 style="margin:0; font-size:2.5rem; line-height:1.2;">
@@ -61,7 +61,7 @@ Grounded in trustworthiness goals (fairness, accountability, transparency, safet
 
   <div style="text-align:center;">
     <img
-      src="{{ '/assets/img/sahmed.jpg' | relative_url }}"
+      src="{{ '/assets/img/sahmed.png' | relative_url }}"
       alt="Dr. Shibbir Ahmed"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     /><br>
