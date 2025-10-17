@@ -9,8 +9,8 @@ nav_title: "Schedule"
 
 # Tentative Workshop Schedule
 
-**Date:** July 5 or 6, 2026 (AoE)  
-**Venue:** Co-located with ACM FSE 2026, Porto de Galinha, Brazil
+**Date:** July 5 or 6, 2026 
+**Venue:** Co-located with ACM FSE 2026, Montreal, Canada
 
 | Time           | Session                     |
 |----------------|-----------------------------|
