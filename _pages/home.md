@@ -21,8 +21,8 @@ nav_order: 1
 <!-- Hero banner -->
 <div style="text-align:center; margin-bottom:3rem;">
   <img
-    src="{{ '/assets/img/banner.jpg' | relative_url }}"
-    alt="IEEE DISTILL 2025 Workshop Banner"
+    src="{{ '/assets/img/bannerMontreal.jpg' | relative_url }}"
+    alt="LLMTrust Workshop Banner"
     style="width:100%; max-height:300px; object-fit:cover;"
   />
 </div>
@@ -62,7 +62,7 @@ Grounded in trustworthiness goals (fairness, accountability, transparency, safet
 
   <div style="text-align:center;">
     <img
-      src="{{ '/assets/img/shibbirahmed.jpg' | relative_url }}"
+      src="{{ '/assets/img/sahmed.jpg' | relative_url }}"
       alt="Dr. Shibbir Ahmed"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     /><br>
@@ -71,7 +71,7 @@ Grounded in trustworthiness goals (fairness, accountability, transparency, safet
 
   <div style="text-align:center;">
     <img
-      src="{{ '/assets/img/hridesh.jpg' | relative_url }}"
+      src="{{ '/assets/img/hrajan.jpg' | relative_url }}"
       alt="Dr. Hridesh Rajan"
       style="width:100px; height:100px; object-fit:cover; border-radius:50%;"
     /><br>
