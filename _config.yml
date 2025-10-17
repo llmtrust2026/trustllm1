@@ -17,7 +17,7 @@ lang: en
 icon: 🧠
 
 url: "https://llmtrust2026.github.io"  
-baseurl: ""                           
+baseurl: "/trustllm1"                           
 last_updated: false
 impressum_path:
 
